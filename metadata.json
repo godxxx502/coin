@@ -2,5 +2,6 @@
   "name": "Tariff War Coin",
   "symbol": "TWC",
   "description": "A token representing Tariff War",
-  "image": "https://raw.githubusercontent.com/godxxx502/coin/refs/heads/main/twc.png"
+  "image": "https://raw.githubusercontent.com/godxxx502/coin/refs/heads/main/twc.png",
+  "attributes": []
 }
